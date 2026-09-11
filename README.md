@@ -2,6 +2,7 @@
 
 ### MSc Computer Science (Coventry University, UK) | Software Developer | IOS Developer | IT
 
+Markdown
 • 🚀 Currently building projects with swift/swiftUI 
 • ✉️ How to reach me [Email Me](mailto:khalifaabubakar39@gmail.com) 
 • 📫 Connect With Me [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](www.linkedin.com/in/khaleefah-waziri-369677235) 
