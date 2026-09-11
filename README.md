@@ -4,7 +4,7 @@
 
 - 🚀 Currently building projects with Swift/SwiftUI
 - ✉️ How to reach me: [Email Me](mailto:khalifaabubakar39@gmail.com)
-- 📫 Connect with me: [LinkedIn](www.linkedin.com/in/khaleefah-waziri-369677235)
+- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/khaleefah-waziri-369677235/)
 
 ## 🛠️ Technologies & Tools
 
